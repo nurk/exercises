@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/TechScreening.iml" filepath="$PROJECT_DIR$/.idea/TechScreening.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercises.iml" filepath="$PROJECT_DIR$/.idea/modules/exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inbox/exercises.inbox.iml" filepath="$PROJECT_DIR$/.idea/modules/inbox/exercises.inbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inbox/exercises.inbox.main.iml" filepath="$PROJECT_DIR$/.idea/modules/inbox/exercises.inbox.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inbox/exercises.inbox.test.iml" filepath="$PROJECT_DIR$/.idea/modules/inbox/exercises.inbox.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/movierental/exercises.movierental.iml" filepath="$PROJECT_DIR$/.idea/modules/movierental/exercises.movierental.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/movierental/exercises.movierental.main.iml" filepath="$PROJECT_DIR$/.idea/modules/movierental/exercises.movierental.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/movierental/exercises.movierental.test.iml" filepath="$PROJECT_DIR$/.idea/modules/movierental/exercises.movierental.test.iml" />
+    </modules>
+  </component>
+</project>

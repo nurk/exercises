@@ -1,0 +1,6 @@
+
+psquid:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(œ³–ù
+:squid:S1643;"Use a StringBuilder instead.(°ñÁÞ8ü„·Ð÷-
+Osquid:S1153;"1Directly append the argument of String.valueOf().(°ñÁÞ8ü„·Ð÷-
+Osquid:S1153@"1Directly append the argument of String.valueOf().(´ÉÛ®8ü„·Ð÷-
+Nsquid:S1153A"1Directly append the argument of String.valueOf().(“©ãR8ü„·Ð÷-

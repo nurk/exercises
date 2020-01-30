@@ -1,0 +1,25 @@
+{
+  "name": "coderetreat-js",
+  "version": "1.0.0",
+  "description": "Code Retreat - JavaScript",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoftwareSandbox/coderetreat-js.git"
+  },
+  "author": "Tim Schraepen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SoftwareSandbox/coderetreat-js/issues"
+  },
+  "homepage": "https://github.com/SoftwareSandbox/coderetreat-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha --watch --reporter=spec ./tests/*Test.js"
+  }
+}

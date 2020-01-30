@@ -1,0 +1,33 @@
+
+I
+exercises/settings.gradle,c/c/cc30c5fa7c101863b2a3359b963fca0a1648cbf3
+E
+exercises/gradlew.bat,6/4/6493723567a4ae0a41ee823d80daa9bc00f04d0b
+A
+exercises/gradlew,4/9/49030bb34443acac678e797f76cf9f9e92fc1201
+F
+exercises/build.gradle,f/a/fae75c32706cc3ada3746d0209deb5be6bebcbae
+b
+2exercises/gradle/wrapper/gradle-wrapper.properties,0/2/02f1bdbf9c82acc509e68ed405ee486f080d167b
+R
+"exercises/movierental/build.gradle,1/c/1ca0a20719ee9c9551e7780de0c0b079d5613f52
+O
+exercises/movierental/README.md,2/0/205a02755b5b604d7a7804fb121744af735049cc
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+C
+exercises/README.md,4/f/4fccd020a827ec7cb51f952587d394afb1185432
+E
+iso-scripts/README.md,6/7/6705dda7f0832e0c217e1b2bed42d3fb98f6b842
+t
+Dexercises/movierental/src/main/java/be/cegeka/movierental/Movie.java,0/b/0b94c7e6321c47d1e73ba3816208618653e7f75e
+w
+Gexercises/movierental/src/main/java/be/cegeka/movierental/Customer.java,9/5/958dd5d278b8241836a039c57f3fc4ee779dac41
+{
+Kexercises/movierental/src/test/java/be/cegeka/movierental/CustomerTest.java,8/d/8de890a4ae16bcd7cd1936204be4e04b6a03a448
+u
+Eexercises/movierental/src/main/java/be/cegeka/movierental/Rental.java,1/3/13ff59c0d3f2034488a166602785e69a4ce3020d
+h
+8exercises/inbox/src/main/java/be/cegeka/inbox/Inbox.java,2/6/260f20b02b51557631f5d2b48a3ee0ed56f31be0
+p
+@exercises/inbox/src/main/java/be/cegeka/inbox/MessageSender.java,0/d/0da31ef5f78a468b0eff389b3311321622b05787
