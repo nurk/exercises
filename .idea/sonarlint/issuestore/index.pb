@@ -19,14 +19,6 @@ C
 exercises/README.md,4/f/4fccd020a827ec7cb51f952587d394afb1185432
 E
 iso-scripts/README.md,6/7/6705dda7f0832e0c217e1b2bed42d3fb98f6b842
-t
-Dexercises/movierental/src/main/java/be/cegeka/movierental/Movie.java,0/b/0b94c7e6321c47d1e73ba3816208618653e7f75e
-w
-Gexercises/movierental/src/main/java/be/cegeka/movierental/Customer.java,9/5/958dd5d278b8241836a039c57f3fc4ee779dac41
-{
-Kexercises/movierental/src/test/java/be/cegeka/movierental/CustomerTest.java,8/d/8de890a4ae16bcd7cd1936204be4e04b6a03a448
-u
-Eexercises/movierental/src/main/java/be/cegeka/movierental/Rental.java,1/3/13ff59c0d3f2034488a166602785e69a4ce3020d
 h
 8exercises/inbox/src/main/java/be/cegeka/inbox/Inbox.java,2/6/260f20b02b51557631f5d2b48a3ee0ed56f31be0
 p

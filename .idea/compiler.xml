@@ -2,6 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="exercises.datingapp.main" target="1.8" />
+      <module name="exercises.datingapp.test" target="1.8" />
       <module name="exercises.inbox.main" target="1.8" />
       <module name="exercises.inbox.test" target="1.8" />
       <module name="exercises.movierental.main" target="1.8" />

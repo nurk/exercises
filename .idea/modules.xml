@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/TechScreening.iml" filepath="$PROJECT_DIR$/.idea/TechScreening.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercises.iml" filepath="$PROJECT_DIR$/.idea/modules/exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/datingapp/exercises.datingapp.iml" filepath="$PROJECT_DIR$/.idea/modules/datingapp/exercises.datingapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/datingapp/exercises.datingapp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/datingapp/exercises.datingapp.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/datingapp/exercises.datingapp.test.iml" filepath="$PROJECT_DIR$/.idea/modules/datingapp/exercises.datingapp.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/inbox/exercises.inbox.iml" filepath="$PROJECT_DIR$/.idea/modules/inbox/exercises.inbox.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/inbox/exercises.inbox.main.iml" filepath="$PROJECT_DIR$/.idea/modules/inbox/exercises.inbox.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/inbox/exercises.inbox.test.iml" filepath="$PROJECT_DIR$/.idea/modules/inbox/exercises.inbox.test.iml" />
