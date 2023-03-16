@@ -14,18 +14,16 @@ idea {
 subprojects {
     apply plugin: 'java'
 
-    sourceCompatibility = 1.8
-    targetCompatibility = 1.8
+    sourceCompatibility = 1.17
+    targetCompatibility = 1.17
 
     repositories {
         mavenCentral()
     }
 
     dependencies {
-        def junitVersion = '4.12',
-            assertJVersion = '3.5.2'
-        testCompile("junit:junit:4.12")
-        testCompile("org.assertj:assertj-core:3.5.2")
+        testImplementation("junit:junit:4.13.2")
+        testImplementation("org.assertj:assertj-core:3.24.2")
     }
 }
 
