@@ -1,1 +1,1 @@
-include 'inbox', 'movierental', 'datingapp'
+include 'movierental'
