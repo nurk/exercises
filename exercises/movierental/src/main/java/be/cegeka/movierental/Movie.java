@@ -8,10 +8,14 @@ enum MoviePriceCode {
 
 public class Movie {
 
-    private String _title;
+    private final String _title;
     private MoviePriceCode _priceCode;
 
-    public Movie(String title, MoviePriceCode priceCode) {
+    public static Movie builder(String title, MoviePriceCode priceCode) {
+        return new Movie(title, priceCode);
+    }
+
+    Movie(String title, MoviePriceCode priceCode) {
         _title = title;
         _priceCode = priceCode;
     }
